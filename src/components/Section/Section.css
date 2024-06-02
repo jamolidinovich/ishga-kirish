@@ -1,0 +1,118 @@
+.section_container {
+  background-image: url("../../assets/uslug.png");
+  max-width: 1480px;
+  /* height: 850px; */
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  position: relative;
+}
+
+.section_title {
+  width: 507.73px;
+  height: 94px;
+  font-family: Oswald;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 47.41px;
+  text-align: left;
+  color: white;
+}
+
+.section_title span {
+  width: 507.73px;
+  height: 94px;
+  font-family: Oswald;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 47.41px;
+  text-align: left;
+  color: #86da44;
+}
+
+.section_desc {
+  font-family: Oswald;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 36.05px;
+  letter-spacing: 0.06em;
+  text-align: justified;
+  width: 594.06px;
+  height: 176.07px;
+  top: 2272.93px;
+  left: 246px;
+  gap: 0px;
+  opacity: 0.7px;
+  color: white;
+  margin-top: 29px;
+}
+
+.section_title2 {
+  font-family: Oswald;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 19.27px;
+  letter-spacing: 0.06em;
+  text-align: justified;
+  color: white;
+  margin-top: 29px;
+}
+.section-img {
+  filter: grayscale(100%);
+  transition: all 0.6s;
+  cursor: pointer;
+}
+.section-img:hover {
+  filter: grayscale(0%);
+}
+.sifr {
+  /* background-image: url(../../assets/sifr.png); */
+  height: 216px;
+  width: 1500px;
+  /* margin-left: -60px; */
+  margin-top: 160px;
+  /* position: absolute; */
+  margin-bottom: 200px;
+  /* background-size: 1600px; */
+}
+
+.sifr_title {
+  font-family: Oswald;
+  font-size: 150px;
+  font-weight: 700;
+  line-height: 102.43px;
+  text-align: left;
+}
+
+.sifr_title span {
+  display: inline-block;
+  font-family: Oswald;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 25.64px;
+  text-align: left;
+  color: white;
+  /* width: 150px; */
+  height: 52px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.project {
+  background-image: url(../../assets/prekt.png);
+  background-repeat: no-repeat;
+}
+
+.project_div {
+  transition: transform 0.3s ease;
+  transition: all 0.6s;
+  filter: grayscale(100%);
+}
+.project_div:hover {
+  transform: translateY(-60px);
+  filter: grayscale(0%); /* Rasmingizni 10px yuqoriga ko'taradi */
+}
+
+.konsultatsiya {
+  /* background-image: url(../../assets/konsultatsi.png); */
+  /* position: absolute; */
+}

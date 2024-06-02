@@ -1,0 +1,75 @@
+.home_container {
+  max-width: 1600px;
+}
+
+.home_header {
+  max-width: 1600px;
+  height: 1000px;
+  background-image: url(../../assets/Home.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header_title {
+  font-family: Oswald;
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 79.02px;
+  text-align: left;
+  width: 532px;
+  color: white;
+}
+.header_title span {
+  font-family: Oswald;
+  font-size: 80px;
+  font-weight: 400;
+  line-height: 79.02px;
+  text-align: left;
+  color: #86da44;
+}
+
+.header_desc {
+  width: 480px;
+  color: white;
+  margin-top: 16px;
+  opacity: 0.7;
+}
+
+.header_btn {
+  width: 210px;
+  height: 56px;
+  background-color: transparent;
+  color: white;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 33.4px;
+  letter-spacing: 0.06em;
+  border: 1px solid #86da44;
+  margin-top: 38px;
+  transition: all 0.6s;
+}
+.header_btn:hover {
+  width: 210px;
+  height: 56px;
+  background-color: transparent;
+  color: white;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 33.4px;
+  letter-spacing: 0.06em;
+  border: 1px solid #86da44;
+  margin-top: 38px;
+  background-color: #86da44;
+}
+.header_div {
+  margin-left: 180px;
+  margin-top: 255px;
+}
+
+.home_hero {
+  max-width: 1600px;
+  height: 3900px;
+  background-color: #1e1e1e;
+  padding: 60px;
+}

@@ -1,0 +1,60 @@
+.servicesdesc {
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 26.34px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: white;
+}
+
+.servicestitle {
+  font-family: Oswald;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 47.41px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #86da44;
+  /* margin-left: 90px; */
+}
+
+.otpiravit {
+  width: 210px;
+  height: 56px;
+  top: 1531.94px;
+  left: 1235.61px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #86da44;
+  color: white;
+  padding-left: 45px;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 33.4px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  transition: all 0.6s;
+}
+
+.otpiravit:hover {
+  width: 210px;
+  height: 56px;
+  top: 1531.94px;
+  left: 1235.61px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #86da44;
+  background: #86da44;
+  color: white;
+  padding-left: 45px;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 33.4px;
+  letter-spacing: 0.06em;
+  text-align: left;
+}

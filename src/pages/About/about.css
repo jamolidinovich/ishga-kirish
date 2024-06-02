@@ -1,0 +1,155 @@
+.about_glavni {
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 24.34px;
+  text-align: left;
+  color: white;
+  opacity: 0.7;
+  height: 24px;
+  top: 171.69px;
+  left: 112.2px;
+  gap: 0px;
+  opacity: 0px;
+  margin-bottom: 59px;
+  display: block;
+  margin-top: 58px;
+  padding-left: 60px;
+}
+
+.about_title {
+  font-family: Oswald;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 79.02px;
+  text-align: left;
+  /* width: 532px; */
+  height: 75.78px;
+  top: 255.59px;
+  left: 113.85px;
+  gap: 0px;
+  opacity: 0px;
+  color: white;
+}
+
+.about_desc {
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 33.4px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  width: 550.15px;
+  height: 103.55px;
+  top: 357.68px;
+  left: 113.85px;
+  gap: 0px;
+  opacity: 0px;
+  color: white;
+  opacity: 0.7;
+  padding-left: 25px;
+  padding-bottom: 20px;
+}
+
+.about_btnn {
+  width: 210px;
+  height: 56px;
+  top: 501.73px;
+  left: 113.85px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #86da44;
+  color: white;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 33.4px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  padding-left: 20px;
+  margin-top: -200px;
+  margin-left: 25px;
+  transition: all 0.6s;
+}
+.about_btnn:hover {
+  background: #86da44;
+}
+
+.about_img {
+  filter: grayscale(100%);
+  transition: all 0.6s;
+}
+.about_img:hover {
+  filter: grayscale(0%);
+}
+
+.kotej {
+  font-family: Oswald;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 47.41px;
+  text-align: left;
+  width: 507.73px;
+  height: 47px;
+  top: 965.83px;
+  left: 244.14px;
+  gap: 0px;
+  opacity: 0px;
+  color: #86da44;
+  gap: 20px;
+}
+
+.about_desc {
+  width: 405.16px;
+  height: 330px;
+  top: 1042.33px;
+  left: 246.71px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Oswald;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 22.23px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  margin-top: 29px;
+  color: white;
+}
+
+.proekt {
+  width: 234.14px;
+  height: 40.52px;
+  top: 1331.81px;
+  left: 964.95px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #86da44;
+  font-family: Oswald;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26.58px;
+  text-align: left;
+  padding-left: 20px;
+  color: white;
+  transition: all 0.6s;
+}
+.proekt:hover {
+  width: 234.14px;
+  height: 40.52px;
+  top: 1331.81px;
+  left: 964.95px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #86da44;
+  background: #86da44;
+  font-family: Oswald;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26.58px;
+  text-align: left;
+  padding-left: 20px;
+  color: white;
+}

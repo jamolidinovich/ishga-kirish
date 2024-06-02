@@ -1,0 +1,30 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 60px 50px 60px;
+  /* background-color: #f8f8f8; */
+}
+
+.logo img {
+  height: 50px;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  gap: 40px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav a.active {
+  color: #86da44; /* Aktiv elementning rangi qizil */
+}
+
+NavLink {
+  color: white;
+}
